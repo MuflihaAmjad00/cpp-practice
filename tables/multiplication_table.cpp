@@ -4,7 +4,7 @@ int main()
 {
 int i=1;
 int p;
-cout << "Enter a number: ";
+cout << "Enter a number: "
 cin >> p;
 while(i<=10)
 {
